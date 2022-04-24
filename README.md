@@ -1,4 +1,4 @@
-###  Saudações! 🖖🏽 Eu sou o Alexandre, apaixonado por programação e tecnologias em geral.
+###  Saudações! 🖖🏽 Eu sou o Alexandre Lira, em transição de carreira e apaixonado por programação e tecnologias em geral.
 
 <div align="center">
   <a href="https://github.com/alexandrelira137">
